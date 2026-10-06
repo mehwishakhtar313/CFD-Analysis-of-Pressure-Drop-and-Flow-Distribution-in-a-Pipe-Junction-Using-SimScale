@@ -262,7 +262,7 @@ Some oscillatory behavior is visible during the later stages of the simulation, 
 
 ## 10.3 Mesh 3 Residuals
 
-![Mesh 3 residuals](images/run3-residuals.png)
+![Mesh 3 residuals](images/run3_residuals.png)
 
 The Mesh 3 residual history shows an overall decreasing trend throughout the simulation.
 
