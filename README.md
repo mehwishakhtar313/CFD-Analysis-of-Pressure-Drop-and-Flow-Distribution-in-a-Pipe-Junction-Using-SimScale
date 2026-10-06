@@ -104,15 +104,15 @@ The two inlet streams were defined using velocity boundary conditions, while a p
 
 The large-diameter inlet introduces water at a velocity of:
 
-\[
+$$
 U_1 = 1.0\;m/s
-\]
+$$
 
 The smaller branch inlet introduces water at:
 
-\[
+$$
 U_2 = 0.2\;m/s
-\]
+$$
 
 The two streams interact at the junction before continuing through the downstream pipe and curved outlet section.
 
@@ -206,9 +206,9 @@ The Mesh 2 pressure field shows a similar overall spatial pattern to Mesh 1.
 
 The displayed pressure range is approximately:
 
-\[
+$$
 -172\;Pa \leq p \leq 590.9\;Pa
-\]
+$$
 
 The pressure variation is again concentrated around the branch junction and downstream curved section.
 
@@ -224,9 +224,9 @@ The Mesh 3 pressure contour was obtained using the finest mesh, with a fineness 
 
 The displayed pressure range is approximately:
 
-\[
+$$
 -369.5\;Pa \leq p \leq 411.8\;Pa
-\]
+$$
 
 The pressure distribution shows pronounced gradients near the branch junction and downstream curved section.
 
@@ -307,9 +307,9 @@ Pressure drop is an important engineering parameter for evaluating flow resistan
 
 For defined inlet and outlet locations, pressure drop is calculated as:
 
-\[
+$$
 \Delta P = P_{in} - P_{out}
-\]
+$$
 
 The pressure contours demonstrate substantial pressure variation throughout the pipe junction and downstream bend.
 
@@ -327,15 +327,15 @@ The pipe junction involves interaction between two water streams with different 
 
 The large-diameter inlet has:
 
-\[
+$$
 U_1 = 1.0\;m/s
-\]
+$$
 
 while the smaller branch inlet has:
 
-\[
+$$
 U_2 = 0.2\;m/s
-\]
+$$
 
 The interaction of these streams creates a non-uniform pressure field around the junction.
 
@@ -373,9 +373,9 @@ The current study provides a useful comparison of three mesh resolutions, but se
 
 Extract pressure at identical inlet and outlet cross-sections for all three meshes and calculate:
 
-\[
+$$
 \Delta P = P_{in} - P_{out}
-\]
+$$
 
 This would provide a direct quantitative comparison of the mesh results.
 
