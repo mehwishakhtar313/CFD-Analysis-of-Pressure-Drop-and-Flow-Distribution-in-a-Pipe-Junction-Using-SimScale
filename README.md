@@ -178,7 +178,7 @@ This allows differences in the resulting pressure fields and residual histories 
 
 ## 9.1 Pressure Distribution — Mesh 1
 
-![Pressure contour — Mesh 1](images/run1-pressure-contours.png)
+![Pressure contour — Mesh 1](images/run1_pressure_contours.png)
 
 The pressure contour for Mesh 1 shows significant spatial variation throughout the pipe-junction geometry.
 
@@ -200,7 +200,7 @@ The pressure gradients indicate local changes in the flow field associated with 
 
 ## 9.2 Pressure Distribution — Mesh 2
 
-![Pressure contour — Mesh 2](images/run2-pressure-contour.png)
+![Pressure contour — Mesh 2](images/run2_pressure_contours.png)
 
 The Mesh 2 pressure field shows a similar overall spatial pattern to Mesh 1.
 
@@ -218,7 +218,7 @@ Although the qualitative pressure-field structure is similar, the displayed pres
 
 ## 9.3 Pressure Distribution — Mesh 3
 
-![Pressure contour — Mesh 3](images/run3-pressure-contour.png)
+![Pressure contour — Mesh 3](images/run3_pressure_contours.png)
 
 The Mesh 3 pressure contour was obtained using the finest mesh, with a fineness setting of 8.
 
@@ -238,7 +238,7 @@ The overall pressure-field pattern is similar to the other mesh cases, while the
 
 ## 10.1 Mesh 1 Residuals
 
-![Mesh 1 residuals](images/run1-residuals.png)
+![Mesh 1 residuals](images/run1_residuals.png)
 
 The Mesh 1 residual history shows a substantial reduction in the residuals during the simulation.
 
@@ -250,7 +250,7 @@ The residuals generally stabilize during the later portion of the simulation.
 
 ## 10.2 Mesh 2 Residuals
 
-![Mesh 2 residuals](images/run2-residuals.png)
+![Mesh 2 residuals](images/run2_residuals.png)
 
 The Mesh 2 residual history also shows a substantial initial decrease.
 
