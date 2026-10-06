@@ -200,7 +200,7 @@ The pressure gradients indicate local changes in the flow field associated with 
 
 ## 9.2 Pressure Distribution — Mesh 2
 
-![Pressure contour — Mesh 2](images/run2_pressure_contours.png)
+![Pressure contour — Mesh 2](images/run2_pressure_contour.png)
 
 The Mesh 2 pressure field shows a similar overall spatial pattern to Mesh 1.
 
