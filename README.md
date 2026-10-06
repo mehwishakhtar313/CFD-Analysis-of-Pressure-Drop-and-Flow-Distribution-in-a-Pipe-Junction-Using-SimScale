@@ -218,7 +218,7 @@ Although the qualitative pressure-field structure is similar, the displayed pres
 
 ## 9.3 Pressure Distribution — Mesh 3
 
-![Pressure contour — Mesh 3](images/run3_pressure_contours.png)
+![Pressure contour — Mesh 3](images/run3_pressure_contour.png)
 
 The Mesh 3 pressure contour was obtained using the finest mesh, with a fineness setting of 8.
 
