@@ -190,9 +190,9 @@ Pressure changes are particularly visible around:
 
 The displayed pressure range is approximately:
 
-\[
--369.5\;Pa \leq p \leq 411.8\;Pa
-\]
+$$
+-369.5\ \mathrm{Pa} \leq p \leq 411.8\ \mathrm{Pa}
+$$
 
 The pressure gradients indicate local changes in the flow field associated with stream interaction, geometric changes, and changes in flow direction.
 
